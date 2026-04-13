@@ -1,0 +1,8 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" rx="48" fill="#1A1A1D"/>
+  <rect x="18" y="18" width="204" height="204" rx="38" fill="#212125" stroke="#34343A"/>
+  <circle cx="120" cy="88" r="36" fill="#FFD86E" fill-opacity="0.95"/>
+  <path d="M72 176C72 145.072 97.0721 120 128 120H112C142.928 120 168 145.072 168 176V182H72V176Z" fill="#FFD86E" fill-opacity="0.95"/>
+  <path d="M84 86C84 62.804 102.804 44 126 44C149.196 44 168 62.804 168 86V95C168 118.196 149.196 137 126 137H120C100.118 137 84 120.882 84 101V86Z" fill="#2A2A31" fill-opacity="0.3"/>
+  <text x="120" y="214" text-anchor="middle" fill="#F6F6F7" font-family="Arial, sans-serif" font-size="28" font-weight="700">PF</text>
+</svg>

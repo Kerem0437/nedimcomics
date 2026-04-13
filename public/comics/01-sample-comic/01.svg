@@ -1,0 +1,13 @@
+<svg width="1400" height="2100" viewBox="0 0 1400 2100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="2100" fill="#FAFAFA"/>
+  <rect x="70" y="70" width="1260" height="1960" rx="22" stroke="#111111" stroke-width="12"/>
+  <rect x="120" y="120" width="1160" height="520" rx="18" fill="#1D1D1F"/>
+  <rect x="120" y="700" width="560" height="560" rx="18" fill="#F0F0F2" stroke="#111111" stroke-width="8"/>
+  <rect x="720" y="700" width="560" height="560" rx="18" fill="#F0F0F2" stroke="#111111" stroke-width="8"/>
+  <rect x="120" y="1320" width="1160" height="540" rx="18" fill="#F0F0F2" stroke="#111111" stroke-width="8"/>
+  <text x="700" y="360" text-anchor="middle" fill="#FFD86E" font-family="Arial, sans-serif" font-size="86" font-weight="700">Comic Page 1</text>
+  <text x="700" y="470" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="38">Drop your real page art here as 01.jpg, 02.jpg, 03.jpg...</text>
+  <text x="400" y="1000" text-anchor="middle" fill="#111111" font-family="Arial, sans-serif" font-size="44">Panel</text>
+  <text x="1000" y="1000" text-anchor="middle" fill="#111111" font-family="Arial, sans-serif" font-size="44">Panel</text>
+  <text x="700" y="1600" text-anchor="middle" fill="#111111" font-family="Arial, sans-serif" font-size="44">Wide Panel</text>
+</svg>

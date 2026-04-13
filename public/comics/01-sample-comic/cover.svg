@@ -1,0 +1,11 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="44" fill="#171717"/>
+  <rect x="36" y="36" width="1128" height="828" rx="32" fill="#1F1F24" stroke="#32323A"/>
+  <circle cx="950" cy="180" r="120" fill="#FFD86E" fill-opacity="0.16"/>
+  <rect x="120" y="130" width="420" height="580" rx="30" fill="#2A2A31"/>
+  <path d="M170 610L260 430L340 510L430 320L500 610H170Z" fill="#FFD86E" fill-opacity="0.22"/>
+  <text x="650" y="280" fill="#FFD86E" font-family="Arial, sans-serif" font-size="30" font-weight="700">SAMPLE PROJECT</text>
+  <text x="650" y="370" fill="#F7F7F7" font-family="Arial, sans-serif" font-size="78" font-weight="700">Sample Comic</text>
+  <text x="650" y="450" fill="#BEBEC5" font-family="Arial, sans-serif" font-size="30">A placeholder project to show the layout.</text>
+  <text x="650" y="520" fill="#BEBEC5" font-family="Arial, sans-serif" font-size="30">Replace this folder with your own pages.</text>
+</svg>
